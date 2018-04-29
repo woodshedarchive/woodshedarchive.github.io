@@ -1,8 +1,8 @@
-#Concept
+# Concept
 The concept of the project is a sustainable distributed image and audio digital media library for artists, muses, and patrons.  The basic premises is similar to a to an Air Bed and Bed, but instead of a single place to stay for a person at a time, it will provide multiple simultaneous transients and permanent storage locations for data to remain for real-time,  near time, and extended storage and retrieval.
 
-#Inspiration
-##Box Of Rain
+# Inspiration
+## Box Of Rain
 
 Look out of any window
 Any morning, any evening, any day

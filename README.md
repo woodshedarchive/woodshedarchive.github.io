@@ -1,4 +1,4 @@
-# Bootleg Project Web Service
+# Bootleg Project
 The objective is to create a sustainable distributed image and audio digital media archive for artists, muses, and patrons.  The premise is similar to a to an Air Bed and Bed, but instead of a single place to stay for a person the new archive will provide multiple simultaneous transients and permanent storage locations for media to remain for real-time,  near time, and extended storage and retrieval purposes. 
 
 + Bootleg Data Service

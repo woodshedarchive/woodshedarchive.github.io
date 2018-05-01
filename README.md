@@ -1,6 +1,6 @@
 # Bootleg Project
 The objective is to create a sustainable distributed image and audio digital media archive for artists, muses, and patrons.  The premise is similar to a to an Air Bed and Bed, but instead of a single place to stay for a person the new archive will provide multiple simultaneous transients and permanent storage locations for media to remain for real-time,  near time, and extended storage and retrieval purposes. 
-##Future Repositories
+## Future Repositories
 + Bootleg Data Service
 + Bootleg Web Client
 + Bootleg Native Client
@@ -13,8 +13,8 @@ The objective is to create a sustainable distributed image and audio digital med
 ## Background
 [Box Of Rain](http://www.dead.net/song/box-rain)
 
-*Lyrics By: [Robert Hunter](https://en.wikipedia.org/wiki/Robert_Hunter_(lyricist)*    
-*Music By: [Phil Lesh](https://en.wikipedia.org/wiki/Phil_Lesh)*
++ Lyrics By: Robert Hunter <https://en.wikipedia.org/wiki/Robert_Hunter_(lyricist)>     
++ Music By: Phil Lesh <https://en.wikipedia.org/wiki/Phil_Lesh>
 
 Look out of any window  
 Any morning, any evening, any day  

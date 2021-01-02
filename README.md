@@ -1,59 +1,13 @@
 # Bootleg Project
-The objective is to create a sustainable distributed image and audio digital media archive for artists, muses, and patrons.  The premise is similar to a to an Air Bed and Breakfast, but instead of a single place to stay for a person the new archive will provide multiple simultaneous transients and permanent storage locations for media to remain for real-time,  near time, and extended storage and retrieval purposes. 
-## Future Repositories
-+ Bootleg Data Service
-+ Bootleg Web Client
-+ Bootleg Native Client
-+ Radio Station
-+ Artisan Production
-+ Artisan Education
-+ Communal Lifestyle
-+ Woodshed Archive [501(c)3 Organization](https://en.wikipedia.org/wiki/501%28c%29_organization) Founded 2014
+Opensource/Free comunity based music production and distribution process.  THe goal is to foster peace love and contentment between pre, post, artists and paetrons based on copyleft ideas and open source rapid application development methodology.
 
-## Background
-[Box Of Rain](http://www.dead.net/song/box-rain)
+On the opensource software side we rely on a bare metal server with a fat pipe paid for montly by our community.  We have a bunch of old system programmers running a stack based on Centos runing KVM containters and Docker.
 
-+ Lyrics By: Robert Hunter <https://en.wikipedia.org/wiki/Robert_Hunter_(lyricist)>     
-+ Music By: Phil Lesh <https://en.wikipedia.org/wiki/Phil_Lesh>
+##Music Production Process
 
-Look out of any window  
-Any morning, any evening, any day  
-Maybe the sun is shining  
-Birds are winging, no rain is falling from a heavy sky  
-What do you want me to do  
-To do for you to see you through?  
-For this is all a dream we dreamed one afternoon long ago  
+##Broadcast Radio Station https://radio.woodshedarchive.org/wapr
 
-Walk out of any doorway  
-Feel your way like the day before  
-Maybe you'll find direction  
-Around some corner where it's been waiting to meet you  
-What do you want me to do  
-To watch for you while you're sleeping?  
-Then please don't be surprised when you find me dreaming too  
+##Distribution
 
-Look into any eyes  
-You find by you; you can see clear to another day  
-Maybe been seen before  
-Through other eyes on other days while going home  
-What do you want me to do  
-To do for you to see you through?  
-It's all a dream we dreamed one afternoon long ago  
+##Event Planning
 
-Walk into splintered sunlight  
-Inch your way through dead dreams to another land  
-Maybe you're tired and broken  
-Your tongue is twisted with words half spoken and thoughts unclear  
-What do you want me to do  
-To do for you, to see you through?  
-A box of rain will ease the pain and love will see you through  
-
-Just a box of rain, wind and water  
-Believe it if you need it, if you don't just pass it on  
-Sun and shower, wind and rain  
-In and out the window like a moth before a flame  
-
-And it's just a box of rain, I don't know who put it there  
-Believe it if you need it or leave it if you dare  
-And it's just a box of rain, or a ribbon for your hair  
-Such a long, long time to be gone and a short time to be there  

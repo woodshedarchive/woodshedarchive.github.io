@@ -17,9 +17,7 @@ https://rubybrunettes.bandcamp.com/album/woodshed-sessions-volume-1
 
 https://pocketbuddha.bandcamp.com/album/live-at-the-woodshed
 
-##Event Planning  - A place were we interact with he commercial world
-
-MuseFest
+##Event Planning  - A place were we interact with the commercial world
 
 Private Parties
 

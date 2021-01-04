@@ -9,7 +9,7 @@ On the opensource software side we rely on a bare metal server with a fat pipe p
 
 https://radio.woodshedarchive.org/wapr
 
-##Distribution - A place were we interact with he commercial world
+##Distribution - A place were we interact with the commercial world
 
 https://woodshedarchive.bandcamp.com/
 
@@ -19,6 +19,6 @@ https://pocketbuddha.bandcamp.com/album/live-at-the-woodshed
 
 ##Event Planning  - A place were we interact with the commercial world
 
-Private Parties
+Private Parties max 2000
 
 ##Digital Media Archive for Community Collections
